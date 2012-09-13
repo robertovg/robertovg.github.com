@@ -8,16 +8,15 @@ tagline: Supporting tagline
 
 
 <div>
-  {% for post in site.posts %}
-    <article>
+	<ul>
+  	{% for post in site.posts %}
 	    <li>
-	    	<span>{{ post.date | date_to_string }}</span> &raquo; <h3><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></h3>
-	    	{{ post.description | truncate: 500 }}
-	    </li>
-    
-    </article>
-
-
-  {% endfor %}
+	    	<article>
+		    	<span>{{ post.date | date_to_string }}</span> &raquo; <h3><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></h3>
+		    	{{ post.description | truncate: 500 }}
+	    	</article>
+	    </li>	    
+  	{% endfor %}
+	</ul>
 </div>
 
