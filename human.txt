@@ -1,0 +1,25 @@
+---
+layout: nil
+title : humanstxt file
+encoding: utf-8
+---
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+	Váz
+    {{ site.author.name }} -- {{ site.author.role }} -- @{{ site.author.twitter }}
+
+# THANKS
+
+    Thanks to all open-source technologies included in this site specially to Jekyll and jekyllbootstrap for making this blog easy to create and maintain.
+    
+    I would like to thank Github for its Github:pages witch act as hosting.
+
+    {{ site.author.name }}
+
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3, Ruby
+    jQuery, Bootstrap, Jekyll, jekyllbootstrap
