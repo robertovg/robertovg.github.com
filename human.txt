@@ -7,7 +7,7 @@ encoding: utf-8
 # The humans responsible & technology colophon
 
 # TEAM
-	Váz
+	
     {{ site.author.name }} -- {{ site.author.role }} -- @{{ site.author.twitter }}
 
 # THANKS
