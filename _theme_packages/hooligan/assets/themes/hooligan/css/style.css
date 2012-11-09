@@ -141,11 +141,16 @@ div.sidebar p {
   clear: left;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.8);
 }
-/* line 119, ../_sass/_base.scss */
+/* line 118, ../_sass/_base.scss */
+.content .post img {
+  max-height: 150px;
+  width: auto;
+}
+/* line 123, ../_sass/_base.scss */
 .content.no-header {
   padding-top: 40px;
 }
-/* line 124, ../_sass/_base.scss */
+/* line 128, ../_sass/_base.scss */
 .content div.row {
   -webkit-box-shadow: rgba(255, 255, 255, 0.1) 0 1px 0, rgba(0, 0, 0, 0.8) 0 1px 7px 0px inset;
   -moz-box-shadow: rgba(255, 255, 255, 0.1) 0 1px 0, rgba(0, 0, 0, 0.8) 0 1px 7px 0px inset;
@@ -153,7 +158,7 @@ div.sidebar p {
 }
 
 /* Page header tweaks */
-/* line 133, ../_sass/_base.scss */
+/* line 137, ../_sass/_base.scss */
 .page-header {
   -webkit-box-shadow: rgba(255, 255, 255, 0.1) 0 1px 0, rgba(0, 0, 0, 0.8) 0 1px 7px 0px inset;
   -moz-box-shadow: rgba(255, 255, 255, 0.1) 0 1px 0, rgba(0, 0, 0, 0.8) 0 1px 7px 0px inset;
@@ -171,14 +176,14 @@ div.sidebar p {
   -webkit-border-bottom-right-radius: 5px;
   border-bottom-right-radius: 5px;
 }
-/* line 146, ../_sass/_base.scss */
+/* line 150, ../_sass/_base.scss */
 .page-header h1 {
   color: #eee;
   margin-bottom: 0;
 }
 
 /* Pagination */
-/* line 157, ../_sass/_base.scss */
+/* line 161, ../_sass/_base.scss */
 div.pagination li a {
   -webkit-box-shadow: 0px 1px 1px black;
   -moz-box-shadow: 0px 1px 1px black;
@@ -186,7 +191,7 @@ div.pagination li a {
 }
 
 /* tag_box ======================================================== */
-/* line 167, ../_sass/_base.scss */
+/* line 171, ../_sass/_base.scss */
 .tag_box {
   list-style: none;
   margin: 0;
@@ -194,17 +199,17 @@ div.pagination li a {
   overflow: hidden;
 }
 
-/* line 173, ../_sass/_base.scss */
+/* line 177, ../_sass/_base.scss */
 .tag_box li {
   line-height: 28px;
 }
 
-/* line 176, ../_sass/_base.scss */
+/* line 180, ../_sass/_base.scss */
 .tag_box.inline li {
   float: left;
 }
 
-/* line 179, ../_sass/_base.scss */
+/* line 183, ../_sass/_base.scss */
 .tag_box a {
   padding: 3px 6px;
   margin: 2px;
@@ -217,13 +222,13 @@ div.pagination li a {
   -o-box-shadow: rgba(255, 255, 255, 0.1) 0 1px 0, rgba(0, 0, 0, 0.8) 0 1px 7px 0px inset;
 }
 
-/* line 194, ../_sass/_base.scss */
+/* line 198, ../_sass/_base.scss */
 .tag_box a span {
   vertical-align: super;
   font-size: 0.8em;
 }
 
-/* line 198, ../_sass/_base.scss */
+/* line 202, ../_sass/_base.scss */
 .tag_box a.active {
   background: #57A957;
   border: 1px solid #4C964D;
@@ -231,55 +236,55 @@ div.pagination li a {
 }
 
 /* Page-specific */
-/* line 206, ../_sass/_base.scss */
+/* line 210, ../_sass/_base.scss */
 div.content div#page-index {
   padding-top: 30px !important;
 }
 
 /* Zocial Overrides */
-/* line 212, ../_sass/_base.scss */
+/* line 216, ../_sass/_base.scss */
 .navbar a.zocial {
   padding-left: 0 !important;
   padding-right: 0 !important;
 }
 
-/* line 218, ../_sass/_base.scss */
+/* line 222, ../_sass/_base.scss */
 .zocial.googleplus:focus,
 .zocial.googleplus:hover {
   color: #e01d30 !important;
 }
 
-/* line 223, ../_sass/_base.scss */
+/* line 227, ../_sass/_base.scss */
 .zocial.twitter:focus,
 .zocial.twitter:hover {
   color: #46c0fb !important;
 }
 
-/* line 228, ../_sass/_base.scss */
+/* line 232, ../_sass/_base.scss */
 .zocial.github:focus,
 .zocial.github:hover {
   color: #4183C4 !important;
 }
 
-/* line 234, ../_sass/_base.scss */
+/* line 238, ../_sass/_base.scss */
 .zocial.bitbucket:focus,
 .zocial.bitbucket:hover {
   color: #205081 !important;
 }
 
-/* line 239, ../_sass/_base.scss */
+/* line 243, ../_sass/_base.scss */
 .zocial.flickr:focus,
 .zocial.flickr:hover {
   color: #FF0084 !important;
 }
 
-/* line 245, ../_sass/_base.scss */
+/* line 249, ../_sass/_base.scss */
 .zocial.linkedin:focus,
 .zocial.linkedin:hover {
   color: #50a1cb !important;
 }
 
-/* line 250, ../_sass/_base.scss */
+/* line 254, ../_sass/_base.scss */
 .zocial.lastfm:focus,
 .zocial.lastfm:hover {
   color: #D51007 !important;

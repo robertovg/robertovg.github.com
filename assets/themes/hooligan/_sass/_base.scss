@@ -115,6 +115,10 @@ div.sidebar {
     clear: left;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.8);
   }
+  .post img{
+      max-height:150px;
+      width:auto;
+  }
   /* when there's no page-header */
   &.no-header {
     padding-top:40px;
