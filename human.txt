@@ -1,7 +1,6 @@
 ---
 layout: nil
 title : humanstxt file
-encoding: utf-8
 ---
 # humanstxt.org/
 # The humans responsible & technology colophon
