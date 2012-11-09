@@ -13,7 +13,7 @@ title: Home
 	{{ post.content }}
 
 	<div class="more">
-		<a href="{{ BASE_PATH }}{{ post.url }}" class="btn">read more..</a>
+		<a href="{{ BASE_PATH }}{{ post.url }}" class="btn">go to post..</a>
 	</div>
 </div>
 <hr/>
