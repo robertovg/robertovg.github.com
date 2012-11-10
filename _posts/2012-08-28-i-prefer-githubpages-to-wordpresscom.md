@@ -4,10 +4,7 @@ title: "I prefer github:pages to wordpress.com"
 category: [hosting] 
 tags: [github, dscm, jekyll, bootstrap, liquid, git, javaScript ]
 published: true
-description: "This is the first article a write entirely in English and the first one I do in this platform with Jekyll, and I have to admit that I find it much more familiar than I expected, because it's such as write code documentation, and it makes me comfortable. Of course I know this article will have some spelling mistakes, but I really think the best way to learn English is to practice it, so ... here we are.
-
-
-In this article I would like to explain why I have moved my personal blog to github. Here goes the reasons:"
+image:/images/posts/scrcap-theme.png
 ---
 {% include JB/setup %}
 <p>This is the first article a write entirely in English and the first one I do in this platform with Jekyll, and I have to admit that I find it much more familiar than I expected, because it's such as write code documentation, and it makes me comfortable. Of course I know this article will have some spelling mistakes, but I really think the best way to learn English is to practice it, so ... here we are.</p>

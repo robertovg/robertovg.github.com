@@ -4,10 +4,8 @@ title: "Servicios Abiertos o Cerrados (II): IMDb y Filmaffinity"
 category: [webservices]
 tags: [peliculas y series, software, imbd, filmafinity]
 published: true
-description: "En el post anterior de esta serie, habl&eacute; un servicio que administra nuestros gustos musicales, ahora le toca el turno de hacer lo mismo pero con las pel&iacute;culas y las series de televisi&oacute;n. En el mundo de  adem&aacute;s con m&aacute;s variedad: Tenemos dos servicios que podemos utilizar para administrar nuestros gustos
+image:/images/posts/300px-imdb_logo_svg.png
 
-
-IMDb semi-abierto para empresas cerrado para usuarios ( a no ser que tengas 15.000 $ para coger tus datos)."
 ---
 {% include JB/setup %}
 <p>

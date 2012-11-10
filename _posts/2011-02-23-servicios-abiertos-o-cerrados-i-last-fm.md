@@ -4,9 +4,7 @@ title: "Servicios Abiertos o Cerrados (I): last.fm"
 category: [webservices]
 tags: [last.fm, scrobblings, mp3, software]
 published: true
-description: "Hoy es habitual que guardes tus datos en la llamada nube, en Internet vamos. Es algo que haces constantemente y casi sin darte cuenta. Esto no es nada nuevo, seguro que utilizas gmail o hotmail en vez de tu Outlook u otro programa de correo o escuchas tus canciones con Spotify en vez de con ese viejo winamp 3.X que te acompa&ntilde;&oacute; durante tanto tiempo. Esto se puede plantear como un problema y tambi&eacute;n como una ventaja, pero lo que s&iacute; es cierto es que &eacute;sta es una tendencia general de los usuarios de Internet.
-
-Antes de valorar este hecho, me gustar&iacute;a hablar de diferentes aplicaciones que se han servido de esta tendencia para sacarle partido con estrategias muy diferentes: last.fm, IMBd y Filmaffinity (dejar&eacute; &eacute;stas dos &uacute;ltimas para otro post)."
+image:/images/posts/lastfm_logo_red.png
 ---
 {% include JB/setup %}
 

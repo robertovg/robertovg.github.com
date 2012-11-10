@@ -4,7 +4,7 @@ title: "#barcampes Sevilla 2012"
 category: [eventos]
 tags: [eventos, Sevilla, barcamp]
 published: true
-description: "Para este post me ha parecido conveniente dejar mis pretensiones por el biling&uuml;ismo aparcadas y limitarme a escribir en el idioma de Cervantes mi experiencia vivida en el #barcampes Sevilla 2012. Para empezar he de decir que pas&eacute; un s&aacute;bado genial, tanto por las personas que formamos este barcamp 2012, como por la organizaci&oacute;n ( que estuvo incre&iacute;ble ), por los patrocinadores y por la calidad de las charlas a las que asist&iacute;. Una experiencia m&aacute;s que recomendable para cualquier amante del mundo del desarrollo."
+image:/images/posts/8022957225_3f20db9d28_z.jpg
 ---
 {% include JB/setup %}
 <p>
