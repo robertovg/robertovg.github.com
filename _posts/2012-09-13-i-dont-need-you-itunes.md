@@ -4,7 +4,7 @@ title: "I don't need you, iTunes"
 category: [software]
 tags: [iTunes, iPod, Synology, NAS, streaming, scrobbling, last.fm, Chrome]
 published: true
-image:/images/posts/no-itunes.jpg
+image: /images/posts/no-itunes.jpg
 ---
 {% include JB/setup %}
 <p>

@@ -4,7 +4,7 @@ title: "Servicios Abiertos o Cerrados (I): last.fm"
 category: [webservices]
 tags: [last.fm, scrobblings, mp3, software]
 published: true
-image:/images/posts/lastfm_logo_red.png
+image: /images/posts/lastfm_logo_red.png
 ---
 {% include JB/setup %}
 

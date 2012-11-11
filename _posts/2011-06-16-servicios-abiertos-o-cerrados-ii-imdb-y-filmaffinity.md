@@ -4,8 +4,7 @@ title: "Servicios Abiertos o Cerrados (II): IMDb y Filmaffinity"
 category: [webservices]
 tags: [peliculas y series, software, imbd, filmafinity]
 published: true
-image:/images/posts/300px-imdb_logo_svg.png
-
+image: /images/posts/300px-imdb_logo_svg.png
 ---
 {% include JB/setup %}
 <p>

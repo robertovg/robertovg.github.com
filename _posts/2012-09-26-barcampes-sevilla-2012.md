@@ -4,7 +4,7 @@ title: "#barcampes Sevilla 2012"
 category: [eventos]
 tags: [eventos, Sevilla, barcamp]
 published: true
-image:/images/posts/8022957225_3f20db9d28_z.jpg
+image: /images/posts/8022957225_3f20db9d28_z.jpg
 ---
 {% include JB/setup %}
 <p>
