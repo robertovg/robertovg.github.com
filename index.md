@@ -13,7 +13,7 @@ title: Home
 	{{ post.content | strip_html | truncatewords: 250 | textilize }}
 
 	<div class="more">
-		<a href="{{ BASE_PATH }}{{ post.url }}" class="btn">read more2..</a>
+		<a href="{{ BASE_PATH }}{{ post.url }}" class="btn">read more..</a>
 	</div>
 </div>
 <hr/>
