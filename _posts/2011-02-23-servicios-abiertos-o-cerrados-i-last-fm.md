@@ -12,7 +12,7 @@ image: /images/posts/lastfm_logo_red.png
 
 <p>Antes de valorar este hecho, me gustaría hablar de diferentes aplicaciones que se han servido de esta <strong>tendencia </strong>para sacarle partido con estrategias muy diferentes:<strong> last.fm, IMBd</strong> y <strong>Filmaffinity </strong>(dejaré éstas dos últimas para otro post).</p>
 
-<img title="Logo de last.fm" src="{{ BASE_PATH }}/images/posts/lastfm_logo_red.png" alt="Logo de last.fm"   />
+<img title="Logo de last.fm" src="/images/posts/lastfm_logo_red.png" alt="Logo de last.fm"   />
 
 <p>Last.fm es una de esas aplicaciones que <strong>utilizas casi sin darte cuenta</strong>, <strong>no te molestan</strong> y te <strong>aportan mucho</strong> cuando empiezas a comprender todas sus posibilidades, <em>y lo digo porque no es inmediato ver su potencial</em>.</p>
 
@@ -33,7 +33,7 @@ image: /images/posts/lastfm_logo_red.png
 	<li>O cuando sincronizas tu mp3 o mp4 con tu ordenador.</li>
 </ul>
 
-<img title="Fondo de pantalla con carátulas de last.fm" src="{{ BASE_PATH }}/images/posts/caratulasLastFMrobertovg24.png" alt="Fondo de pantalla con carátulas de last.fm"   />
+<img title="Fondo de pantalla con carátulas de last.fm" src="/images/posts/caratulasLastFMrobertovg24.png" alt="Fondo de pantalla con carátulas de last.fm"   />
 <p>Fondo de pantalla generado con las carátulas de mis discos más escuchados</p>
 
 <p>Es decir que last.fm realmente <strong>te puede conocer </strong>de muchísimas maneras y <strong>sin tener que cambiar tus hábitos</strong>, instalas el &#8220;<strong>programita&#8221; </strong>y te olvidas. <em>Pero a ver, ¿qué es lo que gano yo diciendoles a los de last.fm que es lo que escucho?</em></p>
@@ -51,7 +51,7 @@ image: /images/posts/lastfm_logo_red.png
 <p>Parece un problema rebuscado, pero es algo que suele pasar más de lo que piensas, así que mi consejo es que si sueles utilizar un reproductor y también reproducir música desde el ordenador,<strong> lo tengas en mente y decidas</strong> qué vas a conectar a last.fm, ya que si lo conectas todo, puede que no se te actualicen las canciones escuchadas de manera <strong>offline.</strong></p>
 <p>Como dato curioso, decir que last.fm tiene hasta dispositivos físicos, como <a href="http://www.lastfm.es/group/Logitech+Squeezebox+Scrobblers">éstos de Logitech</a> que reproducen su rádio:</p>
 
-<img title="Logitech Squeezebox duet" src="{{ BASE_PATH }}/images/posts/squeezebox_51.jpg" alt="Logitech Squeezebox duet"   />
+<img title="Logitech Squeezebox duet" src="/images/posts/squeezebox_51.jpg" alt="Logitech Squeezebox duet"   />
 <p>Squeezebox duet: dispositivo compatible con last.fm </p>
 
 <p>Y tú, ¿utilizas last.fm?, ¿conoces otro servicio similar?.</p>

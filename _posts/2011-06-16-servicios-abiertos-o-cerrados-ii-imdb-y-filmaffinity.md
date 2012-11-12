@@ -8,17 +8,17 @@ image: /images/posts/300px-imdb_logo_svg.png
 ---
 {% include JB/setup %}
 <p>
-	En el <a title="¿servicios abiertos o cerrados?(I): last.fm" href="{{ BASE_PATH }}/{{ page.category }}/servicios-abiertos-o-cerrados-i-last-fm" target="_blank">post anterior</a> de esta serie, hablé un servicio que administra nuestros gustos <strong>musicales</strong>, ahora le toca el turno de hacer lo mismo pero con las películas y las series de televisión.
+	En el <a title="¿servicios abiertos o cerrados?(I): last.fm" href="/{{ page.category }}/servicios-abiertos-o-cerrados-i-last-fm" target="_blank">post anterior</a> de esta serie, hablé un servicio que administra nuestros gustos <strong>musicales</strong>, ahora le toca el turno de hacer lo mismo pero con las películas y las series de televisión.
 
 	En el mundo de  además con más variedad: Tenemos dos servicios que podemos utilizar para administrar nuestros gustos
 </p>
 
-<img title="Logo IMDb" src="{{ BASE_PATH }}/images/posts/300px-imdb_logo_svg.png" alt="Logotipo IMDb" />
+<img title="Logo IMDb" src="/images/posts/300px-imdb_logo_svg.png" alt="Logotipo IMDb" />
 <p>
 	IMDb semi-abierto para empresas cerrado para usuarios ( a no ser que tengas 15.000 $ para coger tus datos).
 </p>
 
-<img title="logotipo Filmaffinity" src="{{ BASE_PATH }}/images/posts/final_logo_stars.gif" alt="logotipo Filmaffinity" width="240" height="71" />
+<img title="logotipo Filmaffinity" src="/images/posts/final_logo_stars.gif" alt="logotipo Filmaffinity" width="240" height="71" />
 
 <p>
 	Por ejemplo un servicio que guarda similitud con last.fm pero relacionado con el  <strong>mundo de las películas y series es <a title="Filmaffinity" href="http://filmaffinity.com/" target="_blank">Filmaffinity</a></strong>. Una gran idea, con muchísima funcionalidad, y que su cometido lo desempeña muy bien. La gran diferencia entre este primero, es que tus datos no son accesibles más bien es justo lo contrario no hay forma de sacar tus datos de Filmaffinity,  por lo cual siempre vas a estar atado a sus políticas de servicio, además me he puesto a buscar si había alguna forma de eliminar mi cuenta y no la he encontrado.
