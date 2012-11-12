@@ -290,6 +290,12 @@ div.content div#page-index {
   color: #D51007 !important;
 }
 
+/* line 259, ../_sass/_base.scss */
+.zocial.rss:focus,
+.zocial.rss:hover {
+  color: #D51007 !important;
+}
+
 /* Layout */
 /* line 2, ../_sass/_responsive.scss */
 .navbar {
