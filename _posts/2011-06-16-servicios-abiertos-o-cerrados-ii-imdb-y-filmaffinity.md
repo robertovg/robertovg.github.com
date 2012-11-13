@@ -4,7 +4,7 @@ title: "Servicios Abiertos o Cerrados (II): IMDb y Filmaffinity"
 category: [webservices]
 tags: [peliculas y series, software, imbd, filmafinity]
 published: true
-image: {{site.production_url}}/images/posts/300px-imdb_logo_svg.png
+image: {{ BASE_PATH }}/images/posts/300px-imdb_logo_svg.png
 ---
 {% include JB/setup %}
 <p>
@@ -13,12 +13,12 @@ image: {{site.production_url}}/images/posts/300px-imdb_logo_svg.png
 	En el mundo de  además con más variedad: Tenemos dos servicios que podemos utilizar para administrar nuestros gustos
 </p>
 
-<img title="Logo IMDb" src="{{site.production_url}}/images/posts/300px-imdb_logo_svg.png" alt="Logotipo IMDb" />
+<img title="Logo IMDb" src="{{ BASE_PATH }}/images/posts/300px-imdb_logo_svg.png" alt="Logotipo IMDb" />
 <p>
 	IMDb semi-abierto para empresas cerrado para usuarios ( a no ser que tengas 15.000 $ para coger tus datos).
 </p>
 
-<img title="logotipo Filmaffinity" src="{{site.production_url}}/images/posts/final_logo_stars.gif" alt="logotipo Filmaffinity" width="240" height="71" />
+<img title="logotipo Filmaffinity" src="{{ BASE_PATH }}/images/posts/final_logo_stars.gif" alt="logotipo Filmaffinity" width="240" height="71" />
 
 <p>
 	Por ejemplo un servicio que guarda similitud con last.fm pero relacionado con el  <strong>mundo de las películas y series es <a title="Filmaffinity" href="http://filmaffinity.com/" target="_blank">Filmaffinity</a></strong>. Una gran idea, con muchísima funcionalidad, y que su cometido lo desempeña muy bien. La gran diferencia entre este primero, es que tus datos no son accesibles más bien es justo lo contrario no hay forma de sacar tus datos de Filmaffinity,  por lo cual siempre vas a estar atado a sus políticas de servicio, además me he puesto a buscar si había alguna forma de eliminar mi cuenta y no la he encontrado.

@@ -4,13 +4,13 @@ title: "I don't need you, iTunes"
 category: [software]
 tags: [iTunes, iPod, Synology, NAS, streaming, scrobbling, last.fm, Chrome]
 published: true
-image: {{site.production_url}}/images/posts/no-itunes.jpg
+image: {{ BASE_PATH }}/images/posts/no-itunes.jpg
 ---
 {% include JB/setup %}
 <p>
 	Six month ago, I lost my dear iPod Classic 80 GB which I used every day for four years until this tragic moment... <strong>now I can say, I don't miss it at all</strong>.
 </p>
-<img title="no iTunes" src="{{site.production_url}}/images/posts/no-itunes.jpg" alt="no iTunes"   />
+<img title="no iTunes" src="{{ BASE_PATH }}/images/posts/no-itunes.jpg" alt="no iTunes"   />
 <p>
 	When I lost it, I had a big music library with about 70 GB and now it consists of more than 100 Gb of mp3. It's so comfortable to be able to listen to your full library always when you want and off-line (without Internet) only using this device, <strong>the bad part comes when you have to manage its content</strong>.
 </p>
