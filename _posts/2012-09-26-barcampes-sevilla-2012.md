@@ -10,7 +10,7 @@ image: /images/posts/8022957225_3f20db9d28_z.jpg
 <p>
 	Para este post me ha parecido conveniente dejar mis pretensiones por el bilingüismo aparcadas y limitarme a escribir en el idioma de Cervantes mi experiencia vivida en el #barcampes Sevilla 2012. Para empezar he de decir que <strong>pasé un sábado genial</strong>, tanto por las personas que formamos este <a href="https://twitter.com/i/#!/search/?q=%23barcampes" target="_blank">barcamp</a> 2012, como por <a href="http://barcampspain.com/acerca-de/" target="_blank">la organización</a> ( que estuvo increíble ), por <a href="http://barcampspain.com/sponsors/" target="_blank">los patrocinadores</a> y por la calidad de las <a href="http://barcampspain.com/schedule/" target="_blank">charlas</a> a las que asistí. <strong>Una experiencia más que recomendable para cualquier amante del mundo del desarrollo</strong>.
 </p>
-<img title="ponentes Barcamp Sevilla" src="/images/posts/8022957225_3f20db9d28_z.jpg" alt="ponentes Barcamp Sevilla"   />
+<img title="ponentes Barcamp Sevilla" src="{{ site.production_url }}/images/posts/8022957225_3f20db9d28_z.jpg" alt="ponentes Barcamp Sevilla"   />
 <p>
 	La primera charla en la que estuve fue la que dio <a href="https://twitter.com/ydarias" target="_blank">@ydarias</a> sobre <strong><a href="http://coffeescript.org/" target="_blank">CoffeScript</a></strong>. En ella nos hizo una presentación muy interesante en la que resaltó su funcionamiento y los problemas que JavaScript tiene como lenguaje ( los famosos JavaScript WTF ) y cómo CoffeScript los solucionaba.
 </p>
