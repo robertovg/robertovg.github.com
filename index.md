@@ -8,8 +8,8 @@ title: Home
 
 {% for post in site.posts %}
 <div class="post">
-	<h3><a href="{{ BASE_PATH }}/{{ post.category }}/{{ post.url }}">{{ post.title }}</a><span class="date">{{ post.date | date_to_string }}</span></h3>
-	{% if post.image %} <img src="{{ BASE_PATH }}/{{ post.image }}" /> {% endif %}
+	<h3><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a><span class="date">{{ post.date | date_to_string }}</span></h3>
+	{% if post.image %}<a href="{{ BASE_PATH }}{{ post.url }}"><img src="{{ post.image }}" /></a>{% endif %}
 	{{ post.content | strip_html | truncatewords: 250 | textilize }}
 
 	<div class="more">
