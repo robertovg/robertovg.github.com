@@ -31,13 +31,13 @@ image: /images/posts/ThePassionateProgrammer.jpg
 	<li>Maintaining Your Edge</li>
 </ul>
 <p>
-	A three first chapters brief resume could be the title of the first one: <strong>"Love It or Leave It"</strong>, yes there are a lot of pieces of advices, so much useful, but the point is this one, according to Chad: <strong>"You have to be passionate about your work if you want to be great at your work"</strong> that simple, but it really is. If your are really interested into Software Development you will find the way to be become a good Developer. Having said that, if you are crazy about Software you will learn a lot reading it. I really like the point of view he transmits about your carer treating it as a product which you want to succeed. 
+	A three first chapters brief resume could be the title of this one: <strong>"Love It or Leave It"</strong>, yes there are a lot of pieces of advices, so much useful, but the point is this one, according to Chad: <strong>"You have to be passionate about your work if you want to be great at your work"</strong> that simple, but it really is. If your are really interested into Software Development you will find the way to be become a good Developer. Having said that, if you are crazy about Software you will learn a lot reading it. I really like the point of view he transmits about your carer treating it as a product which you want to succeed. 
 </p>
 <p>
-	The next chapter was the most useful for me, and I think that it's the one that most technical people usually forget. To have a good marketing it's as necessary as to have a brilliant product, and I usually forget it. 
+	The next chapter was the most useful for me, and I think that it's the one that most technical people usually forget. <strong>To have a good marketing is as necessary as to have a brilliant product, and I usually forget it</strong>. 
 </p>
 <p>
-	I feel the last chapter as series of challenge more than as  advices, but of course I think that all of it challenges are different steps that we, as programmers, must climb.
+	I feel the last chapter as series of challenge more than as  advices, but of course I think that all of these challenges are <strong>different steps that we, as programmers, must climb</strong>.
 </p>
 <p>
 	<strong>Its price ( $15.00 ) thoroughly worth</strong>, so in conclusion I recommend it to everyone who loves and cares about Software Development!
