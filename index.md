@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Home
+title: Index
+group: navigation
 ---
 {% include JB/setup %}
 
