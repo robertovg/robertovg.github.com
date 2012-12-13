@@ -293,7 +293,7 @@ div.content div#page-index {
 /* line 259, ../_sass/_base.scss */
 .zocial.rss:focus,
 .zocial.rss:hover {
-  color: #D51007 !important;
+  color: #F60 !important;
 }
 
 /* Layout */
@@ -321,18 +321,31 @@ div.content div#page-index {
 }
 
 /* Responsive Overrides */
+@media (max-width: 979px) and (min-width: 768px) {
+  /* line 17, ../_sass/_responsive.scss */
+  .span2 {
+    min-width: 125px !important;
+    text-align: center;
+  }
+
+  /* line 21, ../_sass/_responsive.scss */
+  .span10 {
+    width: auto !important;
+    max-width: 579px !important;
+  }
+}
 @media (max-width: 767px) {
-  /* line 18, ../_sass/_responsive.scss */
+  /* line 27, ../_sass/_responsive.scss */
   body {
     padding-right: 0px;
     padding-left: 0px;
   }
 
-  /* line 23, ../_sass/_responsive.scss */
+  /* line 32, ../_sass/_responsive.scss */
   div.container {
     padding: 0px 20px;
   }
-  /* line 25, ../_sass/_responsive.scss */
+  /* line 34, ../_sass/_responsive.scss */
   div.container div.page-header {
     -webkit-border-radius: 0;
     -moz-border-radius: 0;
@@ -341,17 +354,23 @@ div.content div#page-index {
     border-radius: 0;
   }
 
-  /* line 33, ../_sass/_responsive.scss */
+  /* line 42, ../_sass/_responsive.scss */
   .content div.row img {
     max-width: 80%;
   }
-  /* line 36, ../_sass/_responsive.scss */
+  /* line 45, ../_sass/_responsive.scss */
   .content div.row .span2 {
     display: none !important;
   }
-  /* line 40, ../_sass/_responsive.scss */
+  /* line 49, ../_sass/_responsive.scss */
   .content div.row .span10 {
     width: 100%;
+  }
+}
+@media (max-width: 360px) {
+  /* line 57, ../_sass/_responsive.scss */
+  .navbar .container .brand {
+    display: none;
   }
 }
 /* Posts */

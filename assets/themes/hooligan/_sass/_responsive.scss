@@ -12,8 +12,17 @@
   }
 } 
 
-
 /* Responsive Overrides */
+@media (max-width: 979px) and (min-width: 768px){
+  .span2{
+    min-width: 125px !important;
+    text-align: center;
+  }
+  .span10{
+    width: auto !important;
+    max-width: 579px !important;
+  }
+}
 @media (max-width: 767px) {
   body {
     padding-right: 0px;
@@ -43,8 +52,12 @@
       }
     }
   }
-
-
 }
+@media (max-width: 360px) {
+  .navbar .container .brand{
+    display: none;
+  }
+}
+
 
 
