@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Passionate Programmer"
-category: [books]
+category: books
 tags: [craftsmanship, software, development]
 published: true 
 image: /images/posts/ThePassionateProgrammer.jpg 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Rise Against Procrastination"
-category: [software]
+category: software
 tags: [softare, productivity, managment, reading]
 published: true
 image: /images/posts/travel-bird-2.png 

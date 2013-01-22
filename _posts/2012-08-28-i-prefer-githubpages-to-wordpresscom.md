@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "I prefer github:pages to wordpress.com"
-category: [hosting] 
+category: hosting 
 tags: [github, dscm, jekyll, bootstrap, liquid, git, javaScript ]
 published: true
 image: /images/posts/scrcap-theme.png

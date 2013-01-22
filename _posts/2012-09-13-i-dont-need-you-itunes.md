@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "I don't need you, iTunes"
-category: [software]
+category: software
 tags: [iTunes, iPod, Synology, NAS, streaming, scrobbling, last.fm, Chrome]
 published: true
 image: /images/posts/no-itunes.jpg
