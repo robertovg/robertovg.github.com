@@ -32,7 +32,7 @@ After more than one year using my reflex camera just for taking events pictures 
 
 The previous photo are from a set of pictures I took in <a href="http://www.flickr.com/photos/robertovg24/sets/72157633511463587/" target="_blank">Río Tinto</a> in early May.
 
-Another good thing about it's the perspective you get when you resume an activity that you stopped practicing and the better election of the ways to resolve a problem o express a feeling you can do. Of course this would be caused because your brain sort what you learn with time, giving you the right control over your learned skills.
+Another good thing about it's the perspective you get when you resume an activity that you stopped practicing and the better election of the ways to resolve a problem o express a feeling you can do. Of course this is be caused because your brain sort what you have learned with time, giving you the right control over your learned skills.
 
 It's amazing the feeling that there is always place for more and what you already know will improve by itself, so you know; **You can never learn too much**.
 
