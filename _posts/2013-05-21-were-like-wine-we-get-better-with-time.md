@@ -28,7 +28,7 @@ Even more astonish is what happen with the guitar and songs I learned with, with
 
 <a href="http://www.flickr.com/photos/robertovg24/sets/72157633511463587/" target="_blank"><img id="rioTinto" src="{{site.production_url}}//images/posts/ruinas-riotinto.jpg" /></a>
 
-After more than one year using my reflex camera just for taking events pictures ( like christenings, weddings, communions, birthdays and other family events ) in which you don't use your camera for creating art photos but just to remember this moments, it awesome to realize how I do control my abilities and I'm able to control all of them for do exactly what you want to express within a shot. 
+After more than one year using my reflex camera just for taking events pictures ( like christenings, weddings, communions, birthdays and other family events ) in which you don't use your camera for creating art photos but just to remember this moments, it awesome to realize how I master my abilities and I'm able to control all of them for do exactly what you want to express within a shot. 
 
 The previous photo are from a set of pictures I took in <a href="http://www.flickr.com/photos/robertovg24/sets/72157633511463587/" target="_blank">Río Tinto</a> in early May.
 
