@@ -131,6 +131,11 @@ div.sidebar {
        rgba(0, 0, 0, 0.8) 0 1px 7px 0px inset
     );
   }
+  //If I need to have an image per "line"
+  img.clear {
+    clear: both;
+    float: none;
+  }
 }
 
 /* Page header tweaks */

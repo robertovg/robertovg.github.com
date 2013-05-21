@@ -7,12 +7,6 @@ published: true
 image: /images/posts/old-wine.jpg
 ---
 {% include JB/setup %}
-<style type="text/css">
-	img#rioTinto {
-		clear: both;
-		float: none;
-	}
-</style>
   
 It's curious how the time makes you improve with almost everything. People sometimes get the wrong idea of losing faculties with the time and this is only true for physical and mental **deterioration** but within healthful limits, you will be more productive to accomplish tasks you know with time. 
 
@@ -26,9 +20,9 @@ I realized about this reflection some days ago, but it fits perfect in different
 
 Even more astonish is what happen with the guitar and songs I learned with, with no rehearsal those songs I used to play, they sounds better when I start playing them again after some months or so.
 
-<a href="http://www.flickr.com/photos/robertovg24/sets/72157633511463587/" target="_blank"><img id="rioTinto" src="{{site.production_url}}//images/posts/ruinas-riotinto.jpg" /></a>
+<a href="http://www.flickr.com/photos/robertovg24/sets/72157633511463587/" target="_blank"><img class="clear" src="{{site.production_url}}//images/posts/ruinas-riotinto.jpg" /></a>
 
-After more than one year using my reflex camera just for taking events pictures ( like christenings, weddings, communions, birthdays and other family events ) in which you don't use your camera for creating art photos but just to remember this moments, it awesome to realize how I master my abilities and I'm able to control all of them for do exactly what you want to express within a shot. 
+After more than one year using my reflex camera just for taking events pictures ( like christenings, weddings, communions, birthdays and other family events ) in which you don't use your camera for creating art photos but just to remember this moments, it awesome to realize how I master my abilities and I'm able to control all of them to do exactly what you want to express within a shot. 
 
 The previous photo are from a set of pictures I took in <a href="http://www.flickr.com/photos/robertovg24/sets/72157633511463587/" target="_blank">Río Tinto</a> in early May.
 
