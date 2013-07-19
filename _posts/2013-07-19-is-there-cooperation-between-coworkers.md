@@ -12,7 +12,7 @@ We are currently living estrange times where our path is no longer well defined 
 So with all social rules breaking our basic instinct and learned morals become more important to make decision but, what it's happening?
 I not writing to praise for isolated well acting or acts of kindness of some people, what would have always been the natural way of behaving between each other, but to complain about selfishness and cruelty I find these days in society, works environments and even families.
 
-<a href="http://www.flickr.com/photos/23237716@N02/2408591094" target="_blank"><img class="clear" src="{{site.production_url}}//images/posts/feeding-pigeons.jpg" /></a>
+<a href="http://www.flickr.com/photos/23237716@N02/2408591094" target="_blank"><img src="{{site.production_url}}//images/posts/feeding-pigeons.jpg" /></a>
 
 I will try to focus on work environment where it's increasingly common to see people fighting each other at work to get a better position in their company, no matter what it cost. It's true this have usually happened in a few cases to promote, but now it about preventively keep their job. Colleges shows rivalry to their coworkers and act against them just to "survive". **The worse our work conditions are, the worse people treat each other**, even causing more hurt and more pressure to them on their daily job than their bosses do!. I have seen examples of this in both public and private sector.
 
