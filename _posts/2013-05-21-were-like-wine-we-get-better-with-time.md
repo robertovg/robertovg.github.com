@@ -11,8 +11,7 @@ image: /images/posts/old-wine.jpg
 It's curious how the time makes you improve with almost everything. People sometimes get the wrong idea of losing faculties with the time and this is only true for physical and mental **deterioration** but within healthful limits, you will be more productive to accomplish tasks you know with time. 
 
 I enjoy switching my routines, learning new hobbies and changing the ways I take to achieve my goals. In this process it's easy to leave behind some abilities, in spite of what would be natural, we don't forget them but we improve what we know to do, **like wine, our talent gets better with time**. 
-
-![Very Old Wine]({{ site.production_url }}/images/posts/old-wine.jpg "Very Old Wine")
+<img title="Very Old Wine" src="{{ site.production_url }}/images/posts/old-wine.jpg" alt="Very Old Wine"  />
 
 Well, it's true that there is nothing new with that, just the experience concept, but the amazing thing ( for me at least ) with is that you keep improving also without continue practicing a ability.
 
