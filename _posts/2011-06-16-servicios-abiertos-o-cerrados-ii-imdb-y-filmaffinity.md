@@ -9,7 +9,6 @@ image: /images/posts/300px-imdb_logo_svg.png
 {% include JB/setup %}
 <p>
 	En el <a title="¿servicios abiertos o cerrados?(I): last.fm" href="/{{ page.category }}/servicios-abiertos-o-cerrados-i-last-fm" target="_blank">post anterior</a> de esta serie, hablé un servicio que administra nuestros gustos <strong>musicales</strong>, ahora le toca el turno de hacer lo mismo pero con las películas y las series de televisión.
-
 	En el mundo de  además con más variedad: Tenemos dos servicios que podemos utilizar para administrar nuestros gustos
 </p>
 
