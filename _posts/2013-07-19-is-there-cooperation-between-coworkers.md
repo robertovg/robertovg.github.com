@@ -7,7 +7,7 @@ published: true
 image: /images/posts/feeding-pigeons.jpg
 ---
 {% include JB/setup %}
-We are currently living estrange times where our path is no longer well defined for any of us. **Financial Crack**, Several **Corruption Cases** in all the layers of our system and the biggest **Ethical Crisis** never seen before makes ourselves keep lost, hopeless and without trusted model to follow.
+We are currently living strange times where our path is no longer well defined for any of us. **Financial Crack**, Several **Corruption Cases** in all the layers of our system and the biggest **Ethical Crisis** never seen before makes ourselves keep lost, hopeless and without trusted model to follow.
 
 So with all social rules breaking our basic instinct and learned morals become more important to make decision but, what it's happening?
 I not writing to praise for isolated well acting or acts of kindness of some people, what would have always been the natural way of behaving between each other, but to complain about selfishness and cruelty I find these days in society, works environments and even families.
