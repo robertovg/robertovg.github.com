@@ -7,16 +7,17 @@ title : humanstxt file
 
 # TEAM
 	
-    {{ site.author.name }} -- {{ site.author.role }} -- @{{ site.author.twitter }}
+	{{ site.author.role }}: {{ site.author.name }}
+	Twitter: @{{ site.author.twitter }}
+	From: {{ site.author.location }}
 
 # THANKS
 
     Thanks to all open-source technologies included in this site specially to Jekyll and jekyllbootstrap for making this blog easy to create and maintain.
     
-    I would like to thank Github for its Github:pages witch act as hosting.
+    I would like to thank Github for its Github:pages which act as hosting.
 
     {{ site.author.name }}
-
 
 # TECHNOLOGY COLOPHON
 
