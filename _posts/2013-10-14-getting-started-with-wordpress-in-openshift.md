@@ -37,7 +37,7 @@ There is a great documentation in the official openshift webpage and a huge comm
 
 1. First we need to have installed a XAMP ( An easy to install Apache distribution containing MySQL and PHP ). You can do it in the way you prefer but I recommend you using <a href="http://www.mamp.info/en/index.html" target="_blank">MAMP</a>, <a href="http://www.apachefriends.org/en/xampp.html" target="_blank">XAMPP</a>, <a href="http://bitnami.com/" target="_blank">bitnami</a> or a tool like these ones.
 
-2. We need to make a backup of our Openshift Wordpress Gear (it's high recommended to do it each time to keep your data secure ), so we can generate the same instance in our machine cloning the database, this is useful to have the same configuration. So we execute this command `$rhc snapshot save yourWPName`, and in the current directory it will generate 'tar.gz', once we unzip it we will find a app-root/data/mysql_dump_snapshot.gz inside, now we need to connect to our local mysql and execute the script to have the same database as in Openshift instance.
+2. We need to make a backup of our Openshift Wordpress Gear (it's high recommended to do it each time to keep your data secure ), so we can generate the same instance in our machine cloning the database, this is useful to have the same configuration. So we execute this command `$rhc snapshot save yourWPName`, and in the current directory it will generate 'tar.gz', once we unzip it we will find a app-root/data/mysql_dump_snapshot.gz inside, now we need to connect to our local mysql and execute the script to have the same database as in Openshift instance. app-root/data will also contain all uploaded data ( gallery, plugins, themes, uploads).
 
 3. Then we need to configure our apache to point to our &lt;cloneDirectory&gt;/php. We can do it in very different ways but I recommend to use alias in the httpd.conf Apache config file. First we need to know we have enabled 'alias_module' at the beginning of the file. Then we need to add the following code in the `<IfModule alias_module>` section or alias.conf file, if exists.
 
@@ -53,12 +53,15 @@ There is a great documentation in the official openshift webpage and a huge comm
 
 5. When we have this two files with the correct configuration, then we will need to create two alias so once we are in the &lt;cloneDirectory&gt;/php with the terminal we write:
 
-    `$ln -sf .htaccess-alias .htaccess`
-    `$ln -sf wp-config-local.conf wp-config.conf`
+    `$ln -sf .htaccess-alias .htaccess`<br>
+    `$ln -sf wp-config-local.conf wp-config.conf`<br>
 
-6. Change the local option mysql to specify the current 
+6. The next thing to do is to change the 'siteurl' and 'home' rows in the 'wp_options' table. This is important because, otherwise we won't be able to access to the server. So there will appear `http://yourWPName-$yournamespace.rhcloud.com` or something similar, and we have to change it to `http://localhost/yourWPName`.
 
-7. Restart our XAMP tool and start using our word
+7. The last step is to start or restart your XAMP tool and start using our wordpress locally.
 
-pull data and restore upload data
+8. So now you would have to change themes, install plugins first in the local environment and then add, commit and push new or update files to the server. In this way your changes will be automatically deployed into the production ( Openshift ) environment and everithing will be first checked locally and all changes stored in the git repository. It's important to know that pages, post and this kind of information have to be pushed to the server with the MySQL script or even easier directly in the server. So just to clear the information, plugin and themes changes from local to server and post ( through git ), pages and BD changes from Openshift instance to local ( through backups step 4 ).
+
+
+So more or less this is a brief resume how I'm using Openshift to play with Wordpress instances.
 
