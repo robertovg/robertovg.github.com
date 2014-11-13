@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Going back to roots to evolve"
+title: "Going back to the roots to evolve"
 category: 
 tags: []
 published: true
