@@ -38,9 +38,20 @@
 
   .content {
     div.row {
+      p {
+        padding: 0px 10px;
+        text-align: justify;
+      }
+      h1, h2, h3 {
+        clear: left;
+        margin: 0px 10px;
+        text-align: justify;
+      }
       
       img {
         max-width: 80%;
+        clear: both;
+        float: none;
       }
       .span2{
         display:none !important;   
@@ -48,7 +59,25 @@
 
       .span10{
         width: 100%;
-
+      }
+      .post {
+        h3 a{
+          float: left;
+          width: 100%;
+        }
+        h3 span.date{
+          float: left;
+          margin-left: 0px;
+          width: 100%;
+        }
+        p {
+          clear: left;
+          margin: 0px 10px;
+          text-align: justify;
+        }
+        .more {
+          margin-left: 20px; 
+        }
       }
     }
   }

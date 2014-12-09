@@ -119,6 +119,10 @@ div.sidebar {
       max-height:150px;
       width:auto;
   }
+  .post p {
+    margin: 0 20px 10px 0px;
+    text-align: justify;
+  }
   /* when there's no page-header */
   &.no-header {
     padding-top:40px;
